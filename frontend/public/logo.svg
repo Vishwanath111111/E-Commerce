@@ -1,0 +1,10 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gold V Monogram Crown -->
+  <g transform="translate(10, 8)">
+    <path d="M16 2L18.5 5.5L16 8L13.5 5.5L16 2Z" fill="#C5A059"/>
+    <path d="M6 10L16 28L26 10H22L16 21L10 10H6Z" fill="#C5A059"/>
+  </g>
+  <!-- Brand Text -->
+  <text x="48" y="28" font-family="Playfair Display, Georgia, serif" font-size="20" font-weight="bold" fill="#1A2B4C" letter-spacing="3">VASTRADA</text>
+  <text x="49" y="38" font-family="Inter, sans-serif" font-size="7" font-weight="600" fill="#C5A059" letter-spacing="2">ROYAL HERITAGE COUTURE</text>
+</svg>
